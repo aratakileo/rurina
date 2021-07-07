@@ -1,0 +1,3 @@
+class TextRenderError(Exception):
+    pass
+

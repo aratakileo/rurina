@@ -1,3 +1,3 @@
-# Rurina engine
+# Rurina
 
-It is my attempts to create my game engine, powered by Pygame
+A game engine based on the concept of nodes, powered by Pygame
